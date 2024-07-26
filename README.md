@@ -1,2 +1,5 @@
-# DereDev07
-July-Aug'24
+# SDP
+
+-> Clone this Repo
+-> npm i
+-> npm run dev
